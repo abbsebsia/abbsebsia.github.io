@@ -1,0 +1,94 @@
+a{
+    padding: 1%;
+    background-color:lightblue;
+    font-family: Arial;
+    font-size: medium;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    margin-left: 8%;
+    margin-right: 8%;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-top: 5%;
+    
+}
+a:hover{
+    color:white;
+}
+
+nav{
+    background-color: black;
+    height: 10%;
+    text-align: center;
+    
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+#background{
+    background-color:lightblue;
+    height: 150%;
+    width: 100%; 
+    padding-bottom: 10%;
+    padding-top: 5%;
+    
+}
+#background3{
+    background-color:rgb(58, 226, 58, 0.5);
+    height: 150%;
+    width: 100%; 
+    padding-bottom: 10%;
+    padding-top: 5%;
+    
+}
+#background4{
+    background-color:rgb(245, 94, 94);
+    height: 150%;
+    width: 100%; 
+    padding-bottom: 10%;
+    padding-top: 5%;
+}
+
+#ocean{
+    background-image: url(https://www.itl.cat/pngfile/big/288-2888694_tropical-islands-underwater-world-corals-shark-beach-underwater.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+}
+
+#mountains{
+    background-image: url(https://i.pinimg.com/originals/a7/e4/be/a7e4be9aa6ba57563e6b95f3654815a4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+}
+
+#forest{
+    background-image: url(https://pics.freeartbackgrounds.com/fullhd/Forest_Sunlight_Background-954.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+}
+
+#space{
+    background-image: url(https://wonderfulengineering.com/wp-content/uploads/2014/04/space-wallpapers-20.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+}
+
+html{
+    scroll-behavior: smooth;
+}
